@@ -1,0 +1,1 @@
+../build-Debug/simplefifo/main.cpp.o ../build-Debug/simplefifo/fifo.cpp.o   

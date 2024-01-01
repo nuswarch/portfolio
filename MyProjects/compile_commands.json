@@ -1,0 +1,13 @@
+[{
+  "file": "E:\\cpp_study\\FromBeginerToBeyond\\MyProjects\\simplefifo\\main.cpp",
+  "directory": "E:\\cpp_study\\FromBeginerToBeyond\\MyProjects\\simplefifo",
+  "command": "E:/nissim/MinGW/bin/g++.exe -c E:\\cpp_study\\FromBeginerToBeyond\\MyProjects\\simplefifo\\main.cpp -o E:\\cpp_study\\FromBeginerToBeyond\\MyProjects\\simplefifo\\main.cpp.o -target x86_64-w64-mingw32 -IE:\\nissim\\MinGW\\include\\c++\\13.2.0 -IE:\\nissim\\MinGW\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IE:\\nissim\\MinGW\\include\\c++\\13.2.0\\backward -IE:\\nissim\\MinGW\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IE:\\nissim\\MinGW\\include -IE:\\nissim\\MinGW\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IE:\\nissim\\MinGW\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "E:\\cpp_study\\FromBeginerToBeyond\\MyProjects\\simplefifo\\fifo.h",
+  "directory": "E:\\cpp_study\\FromBeginerToBeyond\\MyProjects\\simplefifo",
+  "command": "E:/nissim/MinGW/bin/g++.exe -c E:\\cpp_study\\FromBeginerToBeyond\\MyProjects\\simplefifo\\fifo.h -o E:\\cpp_study\\FromBeginerToBeyond\\MyProjects\\simplefifo\\fifo.h.o -target x86_64-w64-mingw32 -IE:\\nissim\\MinGW\\include\\c++\\13.2.0 -IE:\\nissim\\MinGW\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IE:\\nissim\\MinGW\\include\\c++\\13.2.0\\backward -IE:\\nissim\\MinGW\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IE:\\nissim\\MinGW\\include -IE:\\nissim\\MinGW\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IE:\\nissim\\MinGW\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "E:\\cpp_study\\FromBeginerToBeyond\\MyProjects\\simplefifo\\fifo.cpp",
+  "directory": "E:\\cpp_study\\FromBeginerToBeyond\\MyProjects\\simplefifo",
+  "command": "E:/nissim/MinGW/bin/g++.exe -c E:\\cpp_study\\FromBeginerToBeyond\\MyProjects\\simplefifo\\fifo.cpp -o E:\\cpp_study\\FromBeginerToBeyond\\MyProjects\\simplefifo\\fifo.cpp.o -target x86_64-w64-mingw32 -IE:\\nissim\\MinGW\\include\\c++\\13.2.0 -IE:\\nissim\\MinGW\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IE:\\nissim\\MinGW\\include\\c++\\13.2.0\\backward -IE:\\nissim\\MinGW\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IE:\\nissim\\MinGW\\include -IE:\\nissim\\MinGW\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IE:\\nissim\\MinGW\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }]
